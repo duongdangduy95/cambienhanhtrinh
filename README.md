@@ -36,7 +36,7 @@ Là thiết bị cơ bản, tạo tín hiệu khi người dùng nhấn. Trong d
 
 ## 📹 Video demo
 
-*Chưa có video hướng dẫn.*
+*(https://youtu.be/bzWOsCL8Fzg)*
 
 ---
 
