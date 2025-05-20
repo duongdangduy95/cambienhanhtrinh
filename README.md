@@ -42,6 +42,4 @@ Là thiết bị cơ bản, tạo tín hiệu khi người dùng nhấn. Trong d
 
 
 
-## 📂 Tệp chính
 
-- `button_led.ino`
